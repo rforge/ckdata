@@ -21,7 +21,7 @@ Bureau of Statistics of the Canton of Basel-Stadt, Basel, Switzerland:
 data("BaselCargo")
 plot(BaselCargo)
 
-if require(forecast) {
+if(require(forecast)) {
  cargo_arima <- auto.arima(BaselCargo, ic = "bic", stepwise = FALSE)
  cargo_forecast <- forecast(cargo_arima, h = 12)
  plot(cargo_forecast)
