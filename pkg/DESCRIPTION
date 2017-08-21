@@ -1,9 +1,9 @@
 Package: CKdata
 Version: 0.0-1
-Date: 2017-08-04
+Date: 2017-08-21
 Title: CK's data archive
 Authors@R: c(person(given = "Christian", family = "Kleiber", role = c("aut", "cre"), email = "Christian.Kleiber@unibas.ch"))
-Description: Data sets pertaining to (the University of) Basel and Switzerland.
+Description: Data sets pertaining to (the University of) Basel or Switzerland.
 LazyLoad: yes
 Depends: R (>= 2.14.0)
 Suggests: AER, forecast, lattice
