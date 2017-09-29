@@ -8,17 +8,22 @@ Cargo handling (in tons) for the harbours along the river Rhine in the cantons B
 }
 
 \format{
-A monthly univariate time series from 2000(1) to 2015(7).
+A monthly univariate time series from 1926(1) to 2017(7).
+}
+
+\details{
+Some observations are missing before 1946(1).
 }
 
 \source{
 Bureau of Statistics of the Canton of Basel-Stadt, Basel, Switzerland:
 
-\url{http://www.statistik-bs.ch/themen/11/hafen/umschlag1} (accessed 2009-03-05).
+\url{http://www.statistik.bs.ch/zahlen/tabellen/11-verkehr-mobilitaet/rheinhaefen.html} (accessed 2017-09-22).
 }
 
 \examples{
 data("BaselCargo")
+BaselCargo <- window(BaselCargo, start = 1947)
 plot(BaselCargo)
 
 if(require(forecast)) {
