@@ -1,4 +1,5 @@
-\name{cpi}
+\name{BaselPrices}
+\alias{BaselPrices}
 \alias{cpi}
 
 \title{Basel Prices}
