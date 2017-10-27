@@ -1,5 +1,5 @@
-\name{TNWquarterly}
-\alias{TNWquarterly}
+\name{TNWq}
+\alias{TNWq}
 \title{Quarterly TNW Data}
 
 \description{
@@ -17,9 +17,9 @@ Bureau of Statistics of the canton of Basel-Stadt, Basel, Switzerland:
 }
 
 \examples{
-data("TNWquarterly")
+data("TNWq")
 if(require(forecast)) {
- tnw_arima <- auto.arima(TNWquarterly, d = 1, D = 1, ic = "aic", max.order = 6, stepwise = FALSE)
+ tnw_arima <- auto.arima(TNWq, d = 1, D = 1, ic = "aic", max.order = 6, stepwise = FALSE)
  tnw_forecast <- forecast(tnw_arima, h = 12)
  plot(tnw_forecast)
 }
