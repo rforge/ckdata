@@ -99,7 +99,7 @@
 }
 
 \details{
-The only time series starting in 9000 B.C. is No. spp. dom., which counts the total number of domesticated plants in year \code{t}. The order and categories, in which the data is described, follows \cite{Seppelt et al. (2014)} to facilitate replication of their work. \code{peakXprod} is a subset of \code{peakXall} containing data on all global renewable sources and reconstructs yearly extraction of nonrenewable resources and meatUS by using first differences.
+The only time series starting in 9000 B.C. is domplant, which counts the total number of domesticated plants in year \code{t}. The order and categories, in which the data is described, follows \cite{Seppelt et al. (2014)} to facilitate replication of their work. \code{peakXprod} is a subset of \code{peakXall} containing data on all global renewable sources and reconstructs yearly extraction of nonrenewable resources and meatUS by using first differences.
 }
 
 \source{
