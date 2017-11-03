@@ -114,7 +114,6 @@ Seppelt, R., A. M. Manceur, J. Liu, E. P. Fenichel and S. Klotz (2014). Synchron
 
 \examples{
 data("peakXprod")
-
 plot(peakXprod)
 }
 
