@@ -1,5 +1,6 @@
 \name{PopDistrBS}
 \alias{PopDistrBS}
+\encoding{utf8}
 \title{Total Population by district in Canton Basel-Stadt}
 \description{The file contains the number of the total population by district in Canton Basel-Stadt at the end of the respective year.
 }
