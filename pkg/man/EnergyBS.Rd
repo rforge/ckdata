@@ -10,7 +10,7 @@
 }
 
 \format{
-A monthly multiple time series from 2005(1) to 2017(9).
+A monthly multiple time series from 2005(1) to 2018(10).
  \describe{
     \item{elec}{Electricity consumption in 1000 kWh,}
     \item{heat}{District heat consumption in 1000 kWh,}
@@ -26,7 +26,7 @@ Energy consumption is measured in the supply are of IWB including decentralized 
 \source{
 Bureau of Statistics of the canton of Basel-Stadt, Basel, Switzerland:
 
-\url{http://www.statistik.bs.ch/zahlen/tabellen/8-energie.html} (accessed 2017-11-10)
+\url{http://www.statistik.bs.ch/zahlen/tabellen/8-energie.html} (accessed 2019-01-25)
 }
 
 \references{
