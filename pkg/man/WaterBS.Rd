@@ -9,10 +9,10 @@ Water consumption in the canton Basel-Stadt and Basel-Land municipality Binninge
 }
 
 \format{
-\code{WaterBSm}: A monthly univariate time series from 2005(1) to 2017(9).
+\code{WaterBSm}: A monthly univariate time series from 2005(1) to 2018(10).
 
 
-\code{WaterBSy}: A yearly multiple time series from 1985 to 2016.
+\code{WaterBSy}: A yearly multiple time series from 1979 to 2017.
 
 \describe{
   \item{hhb}{Water consumption by households and businesses in 1000 \eqn{m^3},}
@@ -35,7 +35,7 @@ Previous observations in the monthly dataset \code{WaterBSm} may have been corre
 \source{
 Bureau of Statistics of the canton of Basel-Stadt, Basel, Switzerland:
 
-\url{http://www.statistik.bs.ch/zahlen/tabellen/2-raum-landschaft-umwelt.html} (accessed 2017-11-10).
+\url{http://www.statistik.bs.ch/zahlen/tabellen/2-raum-landschaft-umwelt.html} (accessed 2019-01-25).
 }
 
 \examples{
