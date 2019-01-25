@@ -8,7 +8,7 @@ Cargo handling (in tons) for the harbours along the river Rhine in the cantons B
 }
 
 \format{
-A monthly univariate time series from 1926(1) to 2017(7).
+A monthly univariate time series from 1926(1) to 2018(11).
 }
 
 \details{
@@ -18,7 +18,7 @@ Some observations are missing before 1946(1).
 \source{
 Bureau of Statistics of the Canton of Basel-Stadt, Basel, Switzerland:
 
-\url{http://www.statistik.bs.ch/zahlen/tabellen/11-verkehr-mobilitaet/rheinhaefen.html} (accessed 2017-09-22).
+\url{http://www.statistik.bs.ch/zahlen/tabellen/11-verkehr-mobilitaet/rheinhaefen.html} (accessed 2019-01-25).
 }
 
 \examples{
