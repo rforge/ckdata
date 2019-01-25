@@ -8,7 +8,7 @@
 }
 
 \format{
-A multiple monthly time series from 1934(1) to 2017(9).
+A multiple monthly time series from 1934(1) to 2018(11).
  \describe{
     \item{bedocc}{Hotel bed occupancy rate,}
     \item{avgdur_nat}{Average duration of stay in days of nationals,}
@@ -22,7 +22,7 @@ The Hotel bed occupancy rate is the number of overnight stays in a period divide
 
 
 \source{
-\url{http://www.statistik.bs.ch/zahlen/tabellen/10-tourismus.html} (accessed 2017-10-27)
+\url{http://www.statistik.bs.ch/zahlen/tabellen/10-tourismus.html} (accessed 2019-01-25)
 }
 
 \references{
