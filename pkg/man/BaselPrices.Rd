@@ -23,7 +23,7 @@ The basis date is August 1939 with a value equal to 100. For more details see
 }
 
 \source{
-\url{http://www.statistik.bs.ch/zahlen/tabellen/5-preise.html} (accessed 2019-01-25)
+\url{http://www.statistik.bs.ch/zahlen/tabellen/5-preise.html} (accessed 2019-07-26)
 }
 
 \references{
