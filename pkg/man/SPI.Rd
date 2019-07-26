@@ -8,7 +8,7 @@ Daily price index of the SPI Large (equivalent to the SMI), SPI Mid and SPI Smal
 }
 
 \format{
-A multiple "zoo" time series containing data on all trading days from 1996-01-03 to 2019-01-17.
+A multiple "zoo" time series containing data on all trading days from 1996-01-03 to 2019-06-28.
   \describe{
     \item{SPILarge}{Price index of the SPI Large. Comprises the 20 most highly capitalised companies primarily listed on the SIX Swiss Exchange.}
     \item{SPIMid}{Price index of of the SPI Mid. Comprises the 21st to the 100th most highly capitalised companies primarily listed on the SIX Swiss Exchange.}
@@ -19,7 +19,7 @@ A multiple "zoo" time series containing data on all trading days from 1996-01-03
 \source{
 SIX Swiss Exchange AG, Zurich, Switzerland:
 
-\url{https://www.six-group.com/exchanges/indices/data_centre/shares/spi_de.html} (accessed 2019-01-18).
+\url{https://www.six-group.com/exchanges/indices/data_centre/shares/spi_de.html} (accessed 2019-07-26).
 }
 
 \examples{
