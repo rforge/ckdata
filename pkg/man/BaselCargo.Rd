@@ -8,7 +8,7 @@ Cargo handling (in tons) for the harbours along the river Rhine in the cantons B
 }
 
 \format{
-A monthly univariate time series from 1926(1) to 2019(5).
+A monthly univariate time series from 1926(1) to 2018(12).
 }
 
 \details{
