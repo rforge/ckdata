@@ -9,10 +9,10 @@ Water consumption in the canton Basel-Stadt and Basel-Land municipality Binninge
 }
 
 \format{
-\code{WaterBSm}: A monthly univariate time series from 2005(1) to 2018(10).
+\code{WaterBSm}: A monthly univariate time series from 2005(1) to 2018(12).
 
 
-\code{WaterBSy}: A yearly multiple time series from 1979 to 2017.
+\code{WaterBSy}: A yearly multiple time series from 1979 to 2018.
 
 \describe{
   \item{hhb}{Water consumption by households and businesses in 1000 \eqn{m^3},}
@@ -29,13 +29,13 @@ Water consumption in the canton Basel-Stadt and Basel-Land municipality Binninge
 }
 
 \details{
-Previous observations in the monthly dataset \code{WaterBSm} may have been corrected (???). \code{fountains} in the yearly data \code{WaterBSy} measures the water consumption by urban public fountains operated by IWB (Industrielle Werke Basel). The per capita values are calculated based on the water tariff in the corresponding supply area (canton Basel-Stadt or Binningen), without tranfers to other municipalities outside the supply area.
+Previous observations in the monthly dataset \code{WaterBSm} may have been rectified. \code{fountains} in the yearly data \code{WaterBSy} measures the water consumption by urban public fountains operated by IWB (Industrielle Werke Basel). The per capita values are calculated based on the water tariff in the corresponding supply area (canton Basel-Stadt or Binningen), without tranfers to other municipalities outside the supply area.
 }
 
 \source{
 Bureau of Statistics of the canton of Basel-Stadt, Basel, Switzerland:
 
-\url{http://www.statistik.bs.ch/zahlen/tabellen/2-raum-landschaft-umwelt.html} (accessed 2019-01-25).
+\url{http://www.statistik.bs.ch/zahlen/tabellen/2-raum-landschaft-umwelt.html} (accessed 2019-08-05).
 }
 
 \examples{
