@@ -1,5 +1,5 @@
-\name{AirPassengers}
-\alias{AirPassengers}
+\name{AirPassengersCH}
+\alias{AirPassengersCH}
 \encoding{utf8}
 \title{Air Passengers at Swiss international airports}
 
@@ -29,9 +29,9 @@ Swiss Federal Statistical Office, Neuchâtel, Switzerland:
 }
 
 \examples{
-data("AirPassengers")
+data("AirPassengersCH")
 
-plot(AirPassengers)
+plot(AirPassengersCH)
 
 }
 
