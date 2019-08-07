@@ -46,8 +46,8 @@ extrapolated from the values of the previous population census until 1969 (usual
 \source{
 1930 -- 2006: Statistical Yearbooks of the Canton Basel-Stadt 1921--2006 (volume 1--85). 
 
-2007 -- 2016: Bureau of Statistics of the canton of Basel-Stadt, Basel, Switzerland: Cantonal Population Statistics
-\url{http://www.statistik.bs.ch/zahlen/tabellen/1-bevoelkerung/bestand-struktur.html} (accessed 2017-11-03)
+2007 -- 2018: Bureau of Statistics of the canton of Basel-Stadt, Basel, Switzerland: Cantonal Population Statistics
+\url{http://www.statistik.bs.ch/zahlen/tabellen/1-bevoelkerung/bestand-struktur.html} (accessed 2019-08-07)
 }
 
 
