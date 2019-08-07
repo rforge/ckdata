@@ -10,7 +10,7 @@
 }
 
 \format{
-A multiple "zoo" time series from 1871 to 2016 with 8 missing years.
+A multiple "zoo" time series from 1871 to 2018 with 8 missing years.
  \describe{
     \item{male}{Number of male students,}
     \item{female}{Number of female students,}

@@ -8,7 +8,7 @@
 }		
 
 \format{
-A multiple time series containing 12 time series from 1970--2016.
+A multiple time series containing 12 time series from 1970--2018.
  \describe{				
     \item{baselswiss_male}{Total Swiss male population living in the Basel municipality of Basel,}
     \item{baselswiss_female}{Total Swiss female population living in the Basel municipality of Basel,}

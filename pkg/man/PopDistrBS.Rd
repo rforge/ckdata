@@ -9,7 +9,7 @@
 }
 
 \format{
-A multiple time series containing 21 time series from 1930--2016.
+A multiple time series containing 21 time series from 1930--2018.
  \describe{				
     \item{altgrossbs}{Total population living in the Basel district of Altstadt Gro"sbasel,}
     \item{vorst}{Total population living in the Basel district of Vorst"adte,}
