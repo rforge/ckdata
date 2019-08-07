@@ -34,8 +34,8 @@ Data starting from 1970 until 2011 are based on the cantonal registers of inhabi
 
 
 \source{
-2007 -- 2016: Bureau of Statistics of the canton of Basel-Stadt, Basel, Switzerland: Cantonal Population Statistics
-\url{http://www.statistik.bs.ch/zahlen/tabellen/1-bevoelkerung/bestand-struktur.html} (accessed 2017-11-10) 
+Bureau of Statistics of the canton of Basel-Stadt, Basel, Switzerland: Cantonal Population Statistics
+\url{http://www.statistik.bs.ch/zahlen/tabellen/1-bevoelkerung/bestand-struktur.html} (accessed 2019-08-07) 
 
 }
 
