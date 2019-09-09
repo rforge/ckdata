@@ -10,10 +10,10 @@
 }
 
 \format{
-A monthly time series from 1864(1) to 2017(9).
+A monthly time series from 1864(1) to 2019(6).
  \describe{
-    \item{temp}{Temperature,}
-    \item{precip}{Precipitation.}
+    \item{temp}{Average temperature,}
+    \item{precip}{Total precipitation.}
  }
 }
 
