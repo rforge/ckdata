@@ -10,14 +10,15 @@
 }
 
 \format{
-A monthly multiple time series from 1989 to 2015 with 3 missing years.
+A monthly multiple time series from 1989 to 2018, missing first three years of data
+for Basel.
  \describe{
+    \item{bs.avg}{Average level in month measured in Basel,}    
     \item{bs.max}{Highest level in month measured in Basel,}
     \item{bs.min}{Lowest level in month measured in Basel,}
-    \item{bs.avg}{Average level in month measured in Basel,}    
+    \item{rh.avg}{Average level in month measured in Rheinfelden (Aargau),}
     \item{rh.max}{Highest level in month measured in Rheinfelden (Aargau),}
-    \item{rh.min}{Lowest level in month measured in Rheinfelden (Aargau),}
-    \item{rh.avg}{Average level in month measured in Rheinfelden (Aargau).}
+    \item{rh.min}{Lowest level in month measured in Rheinfelden (Aargau).}
 }
 }
 
@@ -28,7 +29,7 @@ The water level in Basel is measured in centimeters above the horizon at 240 met
 \source{
 Bureau of Statistics of the canton of Basel-Stadt, Basel, Switzerland:
 
-\url{http://www.statistik.bs.ch/zahlen/tabellen/2-raum-landschaft-umwelt.html} (accessed 2019-01-25)
+\url{http://www.statistik.bs.ch/zahlen/tabellen/2-raum-landschaft-umwelt.html} (accessed 2019-09-09)
 }
 
 \references{
