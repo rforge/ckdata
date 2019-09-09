@@ -44,7 +44,7 @@ Missing values:           NA
 \source{
 Federal Office of Meteorology and Climatology MeteoSwiss:
 
-\url{http://www.meteoswiss.admin.ch/home/climate/past/homogenous-monthly-data.html}
+\url{https://www.meteoswiss.admin.ch/home/climate/swiss-climate-in-detail/homogeneous-data-series-since-1864.html?station=bas} (accessed 2019-09-09)
 }
 
 \references{
